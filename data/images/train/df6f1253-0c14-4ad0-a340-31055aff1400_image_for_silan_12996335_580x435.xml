@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>df6f1253-0c14-4ad0-a340-31055aff1400_image_for_silan_12996335_580x435.jpg</filename>
+	<path>C:\Users\User\Desktop\data\images\train\df6f1253-0c14-4ad0-a340-31055aff1400_image_for_silan_12996335_580x435.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>435</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ARABA</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>73</ymin>
+			<xmax>497</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

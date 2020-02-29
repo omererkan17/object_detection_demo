@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>imagee.jpg</filename>
+	<path>C:\Users\User\Desktop\data\images\train\imagee.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ARABA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>35</ymin>
+			<xmax>245</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

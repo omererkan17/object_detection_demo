@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>rBVaVVxXOpCAD1uEAAMXtbrC934716.jpg</filename>
+	<path>C:\Users\User\Desktop\data\images\train\rBVaVVxXOpCAD1uEAAMXtbrC934716.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ARABA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>171</ymin>
+			<xmax>563</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

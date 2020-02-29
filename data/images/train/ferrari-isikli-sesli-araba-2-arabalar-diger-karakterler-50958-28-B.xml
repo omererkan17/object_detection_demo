@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>ferrari-isikli-sesli-araba-2-arabalar-diger-karakterler-50958-28-B.jpg</filename>
+	<path>C:\Users\User\Desktop\data\images\train\ferrari-isikli-sesli-araba-2-arabalar-diger-karakterler-50958-28-B.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ARABA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>203</ymin>
+			<xmax>955</xmax>
+			<ymax>832</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>metal-araba-ambulans-sesli-isikli-cek-birak-araba__0113556773645608.jpg</filename>
+	<path>C:\Users\User\Desktop\data\images\train\metal-araba-ambulans-sesli-isikli-cek-birak-araba__0113556773645608.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ARABA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>167</ymin>
+			<xmax>1005</xmax>
+			<ymax>816</ymax>
+		</bndbox>
+	</object>
+</annotation>

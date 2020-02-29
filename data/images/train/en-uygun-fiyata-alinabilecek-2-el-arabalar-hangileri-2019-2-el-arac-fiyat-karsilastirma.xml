@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>en-uygun-fiyata-alinabilecek-2-el-arabalar-hangileri-2019-2-el-arac-fiyat-karsilastirma.jpg</filename>
+	<path>C:\Users\User\Desktop\data\images\train\en-uygun-fiyata-alinabilecek-2-el-arabalar-hangileri-2019-2-el-arac-fiyat-karsilastirma.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>964</width>
+		<height>643</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ARABA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>89</ymin>
+			<xmax>944</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

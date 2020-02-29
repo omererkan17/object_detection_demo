@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>HaberOrtacoupe-arabalar.jpg</filename>
+	<path>C:\Users\User\Desktop\data\images\train\HaberOrtacoupe-arabalar.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ARABA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>130</ymin>
+			<xmax>570</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

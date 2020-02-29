@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1953-Cadillac-Eldorado-welly-Model-Araba-124-ölçek-model-araba-maket-araba-scale-diecast-car-koleksiyon-hediye-hayran-models-classic-hobi-hobby-hediyelik-metal-araba-red-kırmızı.jpg</filename>
+	<path>C:\Users\User\Desktop\data\images\train\1953-Cadillac-Eldorado-welly-Model-Araba-124-ölçek-model-araba-maket-araba-scale-diecast-car-koleksiyon-hediye-hayran-models-classic-hobi-hobby-hediyelik-metal-araba-red-kırmızı.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1041</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ARABA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>209</ymin>
+			<xmax>1152</xmax>
+			<ymax>801</ymax>
+		</bndbox>
+	</object>
+</annotation>

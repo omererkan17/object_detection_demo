@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>43271_maisto-tech-1967-ford-mustang-gt-uk-araba-turuncu_1.jpg</filename>
+	<path>C:\Users\User\Desktop\data\images\train\43271_maisto-tech-1967-ford-mustang-gt-uk-araba-turuncu_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ARABA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>203</ymin>
+			<xmax>990</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>
